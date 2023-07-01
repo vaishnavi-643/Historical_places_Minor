@@ -1,0 +1,31 @@
+#a{
+    color: antiquewhite;
+    background-color: black;
+    text-align: center;
+}
+.b{
+    color: blueviolet;
+    background-color: blanchedalmond;
+    text-align: left;
+
+}
+/* box model*/
+.c{
+    padding: 120px;
+    border-style: double;
+    border-color: darkred;
+    border-width: 12px;
+     margin: 100px;
+     border-radius: 20px;
+     text-align: center;
+    
+
+    /* box shadow*/
+    box-shadow: 10px 10px 20px  purple;
+    text-shadow: 4px 4px rgb(215, 205, 205);
+    font-size: 50px;
+}
+body{
+    background-color: chocolate;
+    background-image: url("image.jpg");
+}
